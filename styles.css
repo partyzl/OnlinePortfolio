@@ -10,7 +10,7 @@ html{
 	font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
 }
 
-h1 {
+h1, h2{
     text-align: center;
 	margin: 100px, 200px;
 }
@@ -46,4 +46,9 @@ body {
     text-align: left;
     border-style: solid;
     border-width: 2px;
+}
+
+a>img {
+	height: 50px;
+	
 }
